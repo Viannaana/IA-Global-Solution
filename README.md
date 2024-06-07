@@ -11,7 +11,7 @@ Este projeto teve como objetivo desenvolver um modelo de classificação para de
 - Precisão geral de 99.3% e 96.6%, respectivamente.
 - Potencial aplicação em autoridades reguladoras e empresas de abastecimento de água.
 
-**Link Video:**
+**Link Video:** https://www.youtube.com/watch?v=vUTt1_uVRgE
 
 **Conclusão:**
 Os modelos desenvolvidos neste projeto representam uma ferramenta valiosa para avaliar e monitorar a qualidade da água, contribuindo para a segurança do abastecimento de água potável e a preservação dos recursos hídricos naturais. Com futuras melhorias e expansões, esses modelos podem desempenhar um papel importante na gestão da qualidade da água e na proteção da saúde pública e do meio ambiente.
