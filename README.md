@@ -1,6 +1,15 @@
 
 ## Relatório Técnico: Classificação da Qualidade da Água
 
+## Membros do Grupo
+
+- **Alysson Alves Pinheiro** | 2TDSA | RM 552410  
+- **Ana Júlia Almeida** | 2TDSS | RM 98974   
+- **Anna Beatriz Soares** | 2TDSA | RM 99814   
+- **Cauã Couto** | 2TDSS | RM 97755   
+- **Nicoly Oliveira** | 2TDSS | RM 552410
+
+
 **Resumo:**
 Este projeto teve como objetivo desenvolver um modelo de classificação para determinar a qualidade da água com base em parâmetros físico-químicos. Utilizando um dataset contendo informações sobre pH, dureza, concentração de sólidos dissolvidos e outros, o modelo classificou a qualidade da água em três categorias: "Ruim", "Média" e "Boa". Após a exploração dos dados, pré-processamento, engenharia de recursos, modelagem e avaliação dos modelos, concluiu-se que o modelo Random Forest Classifier obteve uma precisão geral de aproximadamente 99.3%, enquanto o modelo K Nearest Neighbors Classifier obteve cerca de 96.6% de precisão. Ambos os modelos demonstraram alta eficácia na identificação de água de baixa qualidade, sendo potenciais ferramentas para autoridades reguladoras e empresas de abastecimento de água na avaliação e monitoramento da qualidade da água.
 
